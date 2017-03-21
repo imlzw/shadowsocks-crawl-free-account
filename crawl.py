@@ -1,3 +1,4 @@
+# python 3.0 or later
 import os
 import re
 import urllib  
